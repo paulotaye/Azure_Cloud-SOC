@@ -16,10 +16,12 @@ I conducted an initial security assessment by measuring key security metrics in 
 - AzureNetworkAnalytics_CL (Malicious Network Flows detected in the honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![image](https://github.com/user-attachments/assets/d46c7e78-0b7d-4342-ba35-b8dd51e25675)
+
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![image](https://github.com/user-attachments/assets/c9bdc8f5-d61f-4aa0-99f4-86862c53dfd8)
+
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
